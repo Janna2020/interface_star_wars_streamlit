@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
-rom tkinter.tix import IMAGE
+from tkinter.tix import IMAGE
 import streamlit as st
 import pandas as pd
 import numpy as np
